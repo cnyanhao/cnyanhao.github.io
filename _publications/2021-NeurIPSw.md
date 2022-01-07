@@ -3,8 +3,8 @@ title: "Augmented Self-Labeling for Source-Free Unsupervised Domain Adaptation"
 collection: publications
 permalink: /publication/2021-NeurIPSw
 excerpt: 
-date: 2021-11-01
-venue: 'NeurIPS 2021 Workshop on Distribution Shifts'
+date: 2021-09-01
+venue: 'NeurIPS Workshop on Distribution Shifts'
 paperurl: 'https://openreview.net/pdf?id=c_XaCsX3gtA'
 citation: 'Hao Yan, Yuhong Guo, Chunsheng Yang. Augmented Self-Labeling for Source-Free Unsupervised Domain Adaptation. NeurIPS 2021 Workshop on Distribution Shifts'
 ---
