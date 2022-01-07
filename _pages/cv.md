@@ -27,12 +27,6 @@ Work experience
 
 * Winter 2019: Deep Learning Algorithm Engineer Intern
   * Didi Chuxing Technology Co., CN
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Skills
 ======
