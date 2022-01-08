@@ -3,7 +3,7 @@ title: "Augmented Self-Labeling for Source-Free Unsupervised Domain Adaptation"
 collection: publications
 permalink: /publication/2021-NeurIPSw
 expert: 
-illustration: /images/2021-NeurIPSw.png
+# illustration: /images/2021-NeurIPSw.png
 date: 2021-09-01
 venue: 'NeurIPS Workshop on Distribution Shifts'
 paperurl: 'https://openreview.net/pdf?id=c_XaCsX3gtA'
