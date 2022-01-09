@@ -22,5 +22,3 @@ model with the supervision of improved pseudo-labels. We further introduce model
 regularization terms to improve the model re-training. Experiments show that our
 method achieves comparable or better results than the state-of-the-art methods on
 the standard benchmarks.
-
-[Download paper here](https://openreview.net/pdf?id=c_XaCsX3gtA)
