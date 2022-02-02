@@ -38,3 +38,12 @@ Skills
 ======
 * Programming: Python, MATLAB, C/C++.
 * Frameworks: PyTorch, TensorFlow.
+
+Projects
+======
+* Domain adaptation for classification and semantic segmentation task.
+* Continual learning.
+* Self-supervised learning for medical image segmentation.
+* Unsupervised long-tailed learning.
+* Domain generalization.
+* Source-free domain adaptation.
