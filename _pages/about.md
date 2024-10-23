@@ -22,7 +22,8 @@ Hao Yan, Yuhong Guo. Dual Moving Average Pseudo-Labeling for Source-Free Inducti
 Hao Yan, Yuhong Guo, Chunsheng Yang. Source-Free Unsupervised Domain Adaptation with Surrogate Data Generation. British Machine Vision Conference (BMVC), 2021.
 
 
-## Workshop Papers
+Workshop Papers
+------
 Hao Yan, Yuhong Guo. Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model. International Workshop on Federated Learning in the Age of Foundation Models at IJCAI 2024.
 
 Hao Yan, Yuhong Guo. Context-Aware Self-Adaptation for Domain Generalization. In 2nd Workshop on New Frontiers in Adversarial Machine Learning at ICML 2023.
