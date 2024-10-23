@@ -32,3 +32,10 @@ Workshop Papers
 **Hao Yan**, Yuhong Guo. Context-Aware Self-Adaptation for Domain Generalization. In 2nd Workshop on New Frontiers in Adversarial Machine Learning at ICML 2023.
 
 **Hao Yan**, Yuhong Guo, Chunsheng Yang. Augmented Self-Labeling for Source-Free Unsupervised Domain Adaptation. Workshop on Distribution Shifts: Connecting Methods and Applications at NeurIPS 2021.
+
+Professional Services
+======
+
+Conference Reviewer: ICML, NeurIPS, AAAI.
+
+Journal Reviewer: Artificial Intelligence.
