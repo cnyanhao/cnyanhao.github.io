@@ -3,9 +3,9 @@ title: "Lightweight Unsupervised Federated Learning with Pretrained Vision Langu
 collection: publications
 permalink: /publication/2024-IJCAIW
 excerpt: 
-illustration: /images/2024-IJCAIW.pdf
+illustration: /images/2024-IJCAIW.png
 date: 2024-08-05
-venue: 'IJCAIW'
+venue: 'International Workshop on Federated Learning in the Age of Foundation Models at IJCAI 2024'
 paperurl: 'https://arxiv.org/pdf/2404.11046'
 citation: Hao Yan, Yuhong Guo. Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model. International Workshop on Federated Learning in the Age of Foundation Models at IJCAI 2024.
 ---

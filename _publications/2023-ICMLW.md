@@ -3,25 +3,18 @@ title: "Context-Aware Self-Adaptation for Domain Generalization"
 collection: publications
 permalink: /publication/2023-ICMLW
 excerpt: 
-illustration: /images/2023-ICMLW.pdf
+illustration: /images/2023-ICMLW.png
 date: 2023-05-28
-venue: 'ICML workshop'
+venue: '2nd ICML Workshop on New Frontiers in Adversarial Machine Learning'
 paperurl: 'https://openreview.net/pdf?id=BXn1jUXGQd'
 citation: Hao Yan, Yuhong Guo. Context-Aware Self-Adaptation for Domain Generalization. In 2nd Workshop on New Frontiers in Adversarial Machine Learning at ICML 2023.
 ---
-Federated learning aims to tackle the “isolated data island” problem, where it
-trains a collective model from physically isolated clients while safeguarding the
-privacy of users’ data. However, supervised federated learning necessitates that
-each client labels their data for training, which can be both time-consuming and
-resource-intensive, and may even be impractical for edge devices. Moreover,
-the training and transmission of deep models present challenges to the computation and communication capabilities of the clients. To address these two inherent challenges in supervised federated learning, we propose a novel lightweight
-unsupervised federated learning approach that leverages unlabeled data on each
-client to perform lightweight model training and communication by harnessing
-pretrained vision-language models, such as CLIP. By capitalizing on the zero-shot
-prediction capability and the well-trained image encoder of the pre-trained CLIP
-model, we have carefully crafted an efficient and resilient self-training approach.
-This method refines the initial zero-shot predicted pseudo-labels of unlabeled instances through the sole training of a linear classifier on top of the fixed image encoder. Additionally, to address data heterogeneity within each client, we propose
-a class-balanced text feature sampling strategy for generating synthetic instances
-in the feature space to support local training. Experiments are conducted on multiple benchmark datasets. The experimental results demonstrate that our proposed
-method greatly enhances model performance in comparison to CLIP’s zero-shot
-predictions and even outperforms supervised federated learning benchmark methods given limited computational and communication overhead.
+Domain generalization aims at developing suitable learning algorithms in source training domains such that the model learned can generalize well on a different unseen testing domain.
+We present a novel two-stage approach called
+Context-Aware Self-Adaptation (CASA) for domain generalization. CASA simulates an approximate meta-generalization scenario and incorporates a self-adaptation module to adjust pretrained meta-source models to the meta-target domains while maintaining their predictive capability on the meta-source domains. The core concept of self-adaptation involves leveraging contextual information, such as the mean of mini-batch
+features, as domain knowledge to automatically
+adapt a model trained in the first stage to new
+contexts in the second stage. Lastly, we utilize an
+ensemble of multiple meta-source models to perform inference on the testing domain. Experimental results demonstrate that our proposed method
+achieves state-of-the-art performance on standard
+benchmarks.
