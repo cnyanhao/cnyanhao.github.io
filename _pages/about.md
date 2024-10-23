@@ -17,14 +17,18 @@ Publications
 Conference Papers
 ------
 
-Hao Yan, Yuhong Guo. Local and Global Flatness for Federated Domain Generalization. European Conference on Computer Vision (ECCV), 2024.
-Hao Yan, Yuhong Guo. Dual Moving Average Pseudo-Labeling for Source-Free Inductive Domain Adaptation. British Machine Vision Conference (BMVC), 2022.
-Hao Yan, Yuhong Guo, Chunsheng Yang. Source-Free Unsupervised Domain Adaptation with Surrogate Data Generation. British Machine Vision Conference (BMVC), 2021.
+**Hao Yan**, Yuhong Guo. Local and Global Flatness for Federated Domain Generalization. European Conference on Computer Vision (ECCV), 2024.
+
+**Hao Yan**, Yuhong Guo. Dual Moving Average Pseudo-Labeling for Source-Free Inductive Domain Adaptation. British Machine Vision Conference (BMVC), 2022.
+
+**Hao Yan**, Yuhong Guo, Chunsheng Yang. Source-Free Unsupervised Domain Adaptation with Surrogate Data Generation. British Machine Vision Conference (BMVC), 2021.
 
 
 Workshop Papers
 ------
 
-Hao Yan, Yuhong Guo. Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model. International Workshop on Federated Learning in the Age of Foundation Models at IJCAI 2024.
-Hao Yan, Yuhong Guo. Context-Aware Self-Adaptation for Domain Generalization. In 2nd Workshop on New Frontiers in Adversarial Machine Learning at ICML 2023.
-Hao Yan, Yuhong Guo, Chunsheng Yang. Augmented Self-Labeling for Source-Free Unsupervised Domain Adaptation. Workshop on Distribution Shifts: Connecting Methods and Applications at NeurIPS 2021.
+**Hao Yan**, Yuhong Guo. Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model. International Workshop on Federated Learning in the Age of Foundation Models at IJCAI 2024.
+
+**Hao Yan**, Yuhong Guo. Context-Aware Self-Adaptation for Domain Generalization. In 2nd Workshop on New Frontiers in Adversarial Machine Learning at ICML 2023.
+
+**Hao Yan**, Yuhong Guo, Chunsheng Yang. Augmented Self-Labeling for Source-Free Unsupervised Domain Adaptation. Workshop on Distribution Shifts: Connecting Methods and Applications at NeurIPS 2021.
